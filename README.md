@@ -3,9 +3,8 @@ Download the project:
 1 - Open the Eclipse IDE 
 2 - In the Master class (line 14) put the path to your .txt file: file.ReadFiles("\\path"); 
 
-\\-------------------------------------Explanation-----------------------------------------------\\
-This final paper with focus on hybrid structures and object programming has the following objective:
 
+Explanation : This final paper with focus on hybrid structures and object programming has the following objective:
  A program that reads a text file (.txt format) and collects all the words
 the words present in the text.
 - The file should ́a read disregard blank spaces and punctuation marks.
