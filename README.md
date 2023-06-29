@@ -3,7 +3,6 @@ Download the project:
 - Open the Eclipse IDE
 - In the Master class (line 14) put the path to your .txt file: file.ReadFiles("\\path"); 
 
-
 Explanation : This final paper with focus on hybrid structures and object programming has the following objective:
  A program that reads a text file (.txt format) and collects all the words
 the words present in the text.
@@ -28,3 +27,7 @@ Finally, using some strategy to walk the tree, go through all the n nodes in the
 all n nodes and add the "Words" found to your double chained list.
 You must insert the words in the list so that the ones that appear most in the text are at the beginning
 in the text are at the beginning and those that appear less are at the end.
+
+<div align="center">
+<img src="https://github.com/FernandaPinto/AVL_Tree/assets/83588044/0f57e98f-0e56-4585-b3a2-cef38ac4c1ef" width="700px" />
+</div>
