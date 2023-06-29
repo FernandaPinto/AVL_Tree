@@ -1,7 +1,7 @@
 # AVL_Tree
 Download the project:
-1 - Open the Eclipse IDE 
-2 - In the Master class (line 14) put the path to your .txt file: file.ReadFiles("\\path"); 
+- Open the Eclipse IDE
+- In the Master class (line 14) put the path to your .txt file: file.ReadFiles("\\path"); 
 
 
 Explanation : This final paper with focus on hybrid structures and object programming has the following objective:
